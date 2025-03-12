@@ -1,0 +1,13 @@
+[package]
+name = "ercin"
+version = "7.7.7"
+edition = "2021"
+description = "Ercin Dedeoglu"
+license = "GPL"
+authors = ["Ercin Dedeoglu <e.dedeoglu@gmail.com>"]
+repository = "https://github.com/ercindedeoglu/ercin"
+homepage = "https://ercin.info"
+categories = ["ercin", "dedeoglu"]
+keywords = ["ercin", "dedeoglu"]
+
+[dependencies]
