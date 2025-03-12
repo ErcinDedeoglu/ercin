@@ -7,7 +7,7 @@ license = "MIT"
 authors = ["Ercin Dedeoglu <e.dedeoglu@gmail.com>"]
 repository = "https://github.com/ercindedeoglu/ercin"
 homepage = "https://ercin.info"
-categories = ["ercin", "dedeoglu"]
+categories = ["algorithms"]
 keywords = ["ercin", "dedeoglu"]
 
 [dependencies]
